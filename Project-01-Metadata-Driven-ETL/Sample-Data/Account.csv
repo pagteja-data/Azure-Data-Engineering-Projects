@@ -1,0 +1,6 @@
+account_id,customer_id,account_type,balance,modified_date
+5001,1001,Savings,25000,2026-08-01
+5002,1002,Checking,15000,2026-08-02
+5003,1003,Credit,120000,2026-08-02
+5004,1004,Savings,40000,2026-08-03
+5005,1005,Checking,18000,2026-08-03
