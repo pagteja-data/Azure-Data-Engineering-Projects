@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,city,modified_date
+1001,John,Smith,john.smith@pagtech.com,Toronto,2026-08-01
+1002,Sarah,Johnson,sarah.johnson@pagtech.com,Vancouver,2026-08-01
+1003,David,Wilson,david.wilson@pagtech.com,Calgary,2026-08-02
+1004,Emily,Brown,emily.brown@pagtech.com,Montreal,2026-08-02
+1005,Michael,Lee,michael.lee@pagtech.com,Ottawa,2026-08-03
